@@ -1,4 +1,5 @@
 
 p {
-    align-items: center;
+    border-left: 30px;
+    text-align: center;
 }
