@@ -6,8 +6,16 @@ p#International {
     font-size: 20px; 
 }
 
-p#Carlo, p#Creator{
+p#Carlo, p#Creator, p#If, p#Associazione, p#Phone, p#info, p#or, p#Please, p#Presentation, p#Preface, p#Eucharistic, p#Reverend{
     font-size: 15px;
+}
+
+p#Carlo, p#Associazione, p#or, p#Presentation, p#Preface, p#Eurcharistic {
+    font-weight: bold;
+}
+
+p#The, p#Relevant {
+    font-size: 18px;
 }
 
 span.red_text {
