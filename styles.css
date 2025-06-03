@@ -1,6 +1,6 @@
 body {
-    height: 100px;
-    width: 200px;
+    height: 500px;
+    width: 500px;
 }
 
 p.paragraph {
@@ -8,11 +8,11 @@ p.paragraph {
 }
 
 p#International {
-    font-size: 30px; 
+    font-size: 20px; 
 }
 
 p#Carlo, p#Creator{
-    font-size: 15px;
+    font-size: 10px;
 }
 
 span.red_text {
