@@ -1,7 +1,7 @@
-paragraph {
+p.paragraph {
     text-align: center;
 }
 
-#red_text {
+span.red_text {
     color: red;
 }
