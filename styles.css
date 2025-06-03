@@ -6,6 +6,10 @@ p#International {
     size: 30px; 
 }
 
+p#Carlo, p#Creator{
+    size: 15px;
+}
+
 span.red_text {
     color: red;
 }
