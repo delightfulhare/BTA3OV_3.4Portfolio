@@ -2,6 +2,10 @@ p.paragraph {
     text-align: center;
 }
 
+p#International {
+    size: 30px; 
+}
+
 span.red_text {
     color: red;
 }
