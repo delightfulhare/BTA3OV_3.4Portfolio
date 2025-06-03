@@ -8,11 +8,11 @@ p.paragraph {
 }
 
 p#International {
-    size: 30px; 
+    font-size: 30px; 
 }
 
 p#Carlo, p#Creator{
-    size: 15px;
+    font-size: 15px;
 }
 
 span.red_text {
